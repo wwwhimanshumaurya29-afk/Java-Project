@@ -63,35 +63,35 @@ java NotepadClone
 
 ### 🖥️ Main Editor Interface
 
-<img width="500" height="600" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/bc50600f-cd56-4046-b91d-ca36db61f9ff" />
-<img width="500" height="600" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/b0f401c7-47d3-41ca-afef-c98765178e1b" />
-<img width="500" height="600" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/c660d018-0d13-42c5-887d-8923ca025e7b" />
+<img width="500" height="300" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/bc50600f-cd56-4046-b91d-ca36db61f9ff" />
+<img width="500" height="300" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/b0f401c7-47d3-41ca-afef-c98765178e1b" />
+<img width="500" height="300" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/c660d018-0d13-42c5-887d-8923ca025e7b" />
 ---
 
 ### 📂 File Operations
 
-<img width="500" height="600" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7a62f2aa-a1f0-4778-bd7e-e342a106e320" />
-<img width="500" height="600" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7ee63b63-b386-4228-82be-f2b2b2def2da" />
-<img width="500" height="600" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/e67536e9-f413-4bfc-a698-f5385bc7f33a" />
+<img width="500" height="300" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7a62f2aa-a1f0-4778-bd7e-e342a106e320" />
+<img width="500" height="300" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7ee63b63-b386-4228-82be-f2b2b2def2da" />
+<img width="500" height="300" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/e67536e9-f413-4bfc-a698-f5385bc7f33a" />
 
 
 ---
 
 ### ✂️ Edit Features
 
-<img width="500" height="600" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b43ec7e4-2c21-49cd-bd22-51678fd342af" />
+<img width="500" height="300" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b43ec7e4-2c21-49cd-bd22-51678fd342af" />
 
 ---
 
 ### 🔍 Zoom Feature
 
-<img width="500" height="600" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3625d568-643a-47cc-a9ca-7aa87b214756" />
+<img width="500" height="300" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3625d568-643a-47cc-a9ca-7aa87b214756" />
 
 
 ---
 
 ### 🖨️ Print Feature
-<img width="500" height="600" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/2e08a078-7b05-402f-a072-d957060e9271" />
+<img width="500" height="300" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/2e08a078-7b05-402f-a072-d957060e9271" />
 =----
 ## 📈 Future Improvements
 
