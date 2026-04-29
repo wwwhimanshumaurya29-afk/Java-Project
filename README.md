@@ -64,7 +64,6 @@ java NotepadClone
 ### 🖥️ Main Editor Interface
 
 <img width="500" height="300" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/bc50600f-cd56-4046-b91d-ca36db61f9ff" />
-<img width="500" height="300" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/b0f401c7-47d3-41ca-afef-c98765178e1b" />
 <img width="500" height="300" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/c660d018-0d13-42c5-887d-8923ca025e7b" />
 ---
 
